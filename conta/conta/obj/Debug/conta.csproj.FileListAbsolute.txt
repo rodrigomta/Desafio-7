@@ -1,0 +1,7 @@
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\bin\Debug\conta.exe.config
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\bin\Debug\conta.exe
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\bin\Debug\conta.pdb
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\obj\Debug\conta.csproj.AssemblyReference.cache
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\obj\Debug\conta.csproj.CoreCompileInputs.cache
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\obj\Debug\conta.exe
+D:\USER\Area de trabalho\UNIRON\vs\conta\conta\obj\Debug\conta.pdb
